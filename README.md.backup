@@ -93,13 +93,11 @@ current/certs/:
 
 Проверим логи пода:
 
-![](img/18.png)
+
 
 
 
 Ссылка на манифесты:
-
-https://github.com/dmistus/Kubernetes_09/tree/main/src
 
 
 
